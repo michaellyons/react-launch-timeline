@@ -154,7 +154,7 @@
     "marked": "^0.3.6",
     "mocha": "^3.2.0",
     "moment": "^2.18.1",
-    "node-sass": "^4.5.2",
+    "node-sass": "^4.13.1",
     "npm-install-webpack-plugin": "^4.0.4",
     "path": "^0.12.7",
     "phantomjs": "^2.1.7",
